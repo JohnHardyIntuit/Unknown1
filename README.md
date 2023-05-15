@@ -1,2 +1,2 @@
 # Unknown1
-Not going to tell
+The purpose of this repository is to see if GenStudio can interpret live data. 
